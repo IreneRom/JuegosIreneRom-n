@@ -1,1 +1,1 @@
-# JuegosIreneRom-n
+# JuegoInformatica
